@@ -5,3 +5,27 @@
   color: white;
   text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
 }
+
+.blog-header-logo{
+  font-size: 2.25em;
+}
+
+.text-white{
+  color: white!important;
+}
+
+.p-4{
+  padding: 1.5rem!important;
+}
+
+.rounded{
+  border-radius: 0.25rem!important;
+}
+
+.container{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
